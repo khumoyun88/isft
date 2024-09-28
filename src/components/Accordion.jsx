@@ -62,11 +62,13 @@ const AccordionComponent = () => {
       <AccordionItem>
         <AccordionItemHeading>
           <AccordionItemButton>
+            ertyuiytrertyuiuytrtyuiuytr
            ISFT Inistituti davlat tashkilotlari tomonidan tan olinadimi?
           </AccordionItemButton>
         </AccordionItemHeading>
         <AccordionItemPanel>
           <p>
+            poiuytrertyuioiuytrewoi
             Albatta Inistitut Oʻzbekiston Respublikasi Ta’lim vazirligi tomonidan litsenziyalangan, Iniustitut diplomi davlat tashkilotlari tomonidan tan olinadi. Shuningdek Inistitut Turkiya, Xitoy, Malayziya, Belorusiya, Qozog'iston, Buyuk Britaniya kabi davlatlar Universtitetlari bilan Memerendumga ega.
         </p>
         </AccordionItemPanel>
