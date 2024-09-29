@@ -10,6 +10,7 @@ const MainPage = () => {
       <Main />
       <Achievements />
       <h1>Ko'p so'raladigan savollar</h1>
+      <h1>khumoytun</h1>
       <AccordionComponent />
       <RegisterForm />
     </div>
