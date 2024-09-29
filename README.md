@@ -8,3 +8,6 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 # For-Khumoyun
 # for-Khumoyun
+
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/37edc3df-0132-4836-ba2d-d75f2f9c661e/deploy-status)](https://app.netlify.com/sites/isft2-uz-apply/deploys)
