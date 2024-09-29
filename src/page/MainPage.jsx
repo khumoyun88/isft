@@ -9,8 +9,11 @@ const MainPage = () => {
     <div>
       <Main />
       <Achievements />
+      <div>
+        <h1>Bizning talabalar</h1>
+        <img src="/1.jpeg" alt="" />
+      </div>
       <h1>Ko'p so'raladigan savollar</h1>
-      <h1>khumoytun</h1>
       <AccordionComponent />
       <RegisterForm />
     </div>
