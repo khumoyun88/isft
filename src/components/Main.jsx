@@ -4,7 +4,7 @@ const Main = () => {
   return (
     <div className="relative text-center overflow-hidden">
       <img
-        src="https://images.pexels.com/photos/38275/anonymous-studio-figure-photography-facial-mask-38275.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        src="https://previews.123rf.com/images/rido/rido2010/rido201000043/156811244-professor-assisting-college-student-with-laptop-in-classroom-during-computer-lesson-teacher-talking.jpg"
         alt="image of team"
         className="w-full h-auto"
       />
