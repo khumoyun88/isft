@@ -46,7 +46,7 @@ const RegisterForm = () => {
 
   return (
     <>
-      <div className="flex justify-center items-top h-screen">
+      <div className="flex justify-center pt-20 items-top">
         <form
           id="about"
           onSubmit={handleSubmit}
