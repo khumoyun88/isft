@@ -19,7 +19,7 @@ const MainPage = () => {
         <img src="/2.jpeg" alt="" />
       </div> */}
       <SimpleCarousel />
-      <h1>Ko'p so'raladigan savollar</h1>
+      <h1 class="text-[30px] pb-2 pl-2 pt-10">Ko'p so'raladigan savollar</h1>
       <AccordionComponent />
       <RegisterForm />
     </div>

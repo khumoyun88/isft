@@ -16,7 +16,7 @@ const SimpleCarousel = () => {
 
   return (
     <div>
-      <h2>Simple React Slick Carousel</h2>
+      <h2   class="text-[30px] pb-2 pl-2">ISFT hayoti</h2>
       <Slider {...settings}>
         <div>
           <img src="/1.jpeg" alt="Slide 1" />
