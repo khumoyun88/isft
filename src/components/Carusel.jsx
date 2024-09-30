@@ -10,7 +10,7 @@ const SimpleCarousel = () => {
     slidesToShow: 1,  // Number of slides to show at once
     slidesToScroll: 1,  // Number of slides to scroll at once
     autoplay: true,  // Enables automatic sliding
-    autoplaySpeed: 3000,  // Delay in ms between slides
+    autoplaySpeed: 2000,  // Delay in ms between slides
     arrows: true,  // Shows the next/previous arrows
   };
 
@@ -30,6 +30,19 @@ const SimpleCarousel = () => {
         <div>
           <img src="/4.jpeg" alt="Slide 4" />
         </div>
+        <div>
+          <img src="/5.jpeg" alt="Slide 5" />
+        </div>
+        <div>
+          <img src="/6.jpeg" alt="Slide 6" />
+        </div>
+        <div>
+          <img src="/7.jpeg" alt="Slide 7" />
+        </div>
+        <div>
+          <img src="/8.jpeg" alt="Slide 8" />
+        </div>
+        
       </Slider>
     </div>
   );
