@@ -6,6 +6,7 @@ import AccordionComponent from "../components/Accordion";
 import SimpleCarousel from "../components/Carusel";
 import "slick-carousel/slick/slick.css"; 
 import "slick-carousel/slick/slick-theme.css";
+import VideoComponent from "../components/video";
 
 
 const MainPage = () => {
@@ -21,6 +22,7 @@ const MainPage = () => {
       <SimpleCarousel />
       <h1 class="text-[30px] pb-2 pl-2 pt-10">Ko'p so'raladigan savollar</h1>
       <AccordionComponent />
+      <VideoComponent />
       <RegisterForm />
     </div>
   );
