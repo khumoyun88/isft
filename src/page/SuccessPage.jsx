@@ -18,7 +18,7 @@ const SuccessPage = () => {
           showContent ? "opacity-100 scale-100" : "opacity-0 scale-50"
         } transition-all duration-700 ease-out`}
       >
-        <img className="w-23 h-auto " src="/logo.svg" alt="logo" />
+        <img className="w-23 pb-10 h-auto " src="/logo.svg" alt="logo" />
       </div>
       
       {/* Text */}
