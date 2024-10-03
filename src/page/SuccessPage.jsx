@@ -1,5 +1,7 @@
+
 import { FaCheckCircle } from "react-icons/fa";
 import { useState, useEffect } from "react";
+import { fbq } from "../fqb";// Assuming you have fbq set up globally
 
 const SuccessPage = () => {
   const [showContent, setShowContent] = useState(false);
@@ -7,7 +9,12 @@ const SuccessPage = () => {
   useEffect(() => {
     setTimeout(() => {
       setShowContent(true); // Show both image and tick after a delay
-    }, 500); // Delay the animation for 0.5 seconds
+    }, 1000); // Delay the animation for 0.5 seconds
+
+    // Fire the Meta Pixel Lead event
+    fbq('track', 'Lead');
+    console.log( 'Lead');
+    
   }, []);
 
   return (
